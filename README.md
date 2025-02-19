@@ -1,53 +1,4 @@
- <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Vikrant Yadav - .NET Core Developer</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f5f5f5;
-            margin: 20px;
-            padding: 20px;
-        }
-        h1, h2, h3 {
-            text-align: center;
-        }
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            background: white;
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-        }
-        .profile-img {
-            display: block;
-            margin: 0 auto;
-        }
-        .icons {
-            display: flex;
-            justify-content: center;
-            flex-wrap: wrap;
-            gap: 15px;
-            margin-top: 10px;
-        }
-        .icons img {
-            width: 40px;
-            height: 40px;
-        }
-        .github-stats {
-            text-align: center;
-        }
-        .github-stats img {
-            max-width: 100%;
-        }
-    </style>
-</head>
-<body>
-
-<div class="container">
+ 
     <h1>👋 Hi, I'm Vikrant Yadav</h1>
     <h3>🚀 .NET Core Developer | Full Stack Engineer</h3>
 
@@ -110,7 +61,4 @@
     <div align="center">
         <img src="https://ghactivity.mrayush.me/graph?username=vikrant-eng&bg_color=d3c0ca&color=000000&line=d709ca&point=d01616&area=true&hide_border=true" alt="Contribution Graph">
     </div>
-</div>
-
-</body>
-</html>
+ 
