@@ -36,6 +36,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40">
+        <img src=" https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="CSS3" width="40" height="40"> 
     </div>
   <h3>Other Tools:</h3>
     <div class="icons">
@@ -45,7 +46,7 @@
   <h2>📊 GitHub Stats</h2>
     <div class="github-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vikrant-eng&show_icons=true&locale=en&layout=compact" alt="Top Languages">
-        <img src="https://github-readme-stats.vercel.app/api?username=vikrant-eng&show_icons=true&locale=en" alt="GitHub Stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=vikrant-eng&show_icons=true&locale=en" alt="GitHub Stats"> </br>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikrant-eng" alt="GitHub Streak">
     </div>
   <h2>📈 Contribution Graph</h2>
