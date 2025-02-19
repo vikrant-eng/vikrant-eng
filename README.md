@@ -1,11 +1,9 @@
   <h1>👋 Hi, I'm Vikrant Yadav</h1>
     <h3>🚀 .NET Core Developer | Full Stack Engineer</h3>
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikrant-eng&label=Profile%20views&color=0e75b6&style=flat" alt="vikrant-eng" /> </p>
+    <p align="center"> <img src="https://komarev.com/ghpvc/?username=vikrant-eng&label=Profile%20views&color=0e75b6&style=flat" alt="vikrant-eng" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikrant-eng" alt="vikrant-eng" /></a> </p>
- <p align="center">
-        <img src="https://komarev.com/ghpvc/?username=vikrant-eng&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
-    </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikrant-eng" alt="vikrant-eng" /></a> </p>
+ 
    <h2>🚀 About Me</h2>
     <ul>
         <li>🔭 Currently working on <b>.NET Core Full Stack Projects</b></li>
