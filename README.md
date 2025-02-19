@@ -1,37 +1,116 @@
-<h1 align="center">Hi 👋, I'm Vikrant Yadav</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vikrant Yadav - .NET Core Developer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            margin: 20px;
+            padding: 20px;
+        }
+        h1, h2, h3 {
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        .profile-img {
+            display: block;
+            margin: 0 auto;
+        }
+        .icons {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 15px;
+            margin-top: 10px;
+        }
+        .icons img {
+            width: 40px;
+            height: 40px;
+        }
+        .github-stats {
+            text-align: center;
+        }
+        .github-stats img {
+            max-width: 100%;
+        }
+    </style>
+</head>
+<body>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikrant-eng&label=Profile%20views&color=0e75b6&style=flat" alt="vikrant-eng" /> </p>
+<div class="container">
+    <h1>👋 Hi, I'm Vikrant Yadav</h1>
+    <h3>🚀 .NET Core Developer | Full Stack Engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikrant-eng" alt="vikrant-eng" /></a> </p>
+    <p align="center">
+        <img src="https://komarev.com/ghpvc/?username=vikrant-eng&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+    </p>
 
-- 🔭 I’m currently working on *Full Stack project*
+    <h2>🚀 About Me</h2>
+    <ul>
+        <li>🔭 Currently working on <b>.NET Core Full Stack Projects</b></li>
+        <li>🌱 Learning <b>Advanced .NET, Microservices, and Cloud Computing</b></li>
+        <li>💬 Ask me about <b>.NET Core | C# | SQL Server | PostgreSQL | MySQL | Python | React.js</b></li>
+        <li>📫 Reach me at <b>dev.vikrant21@gmail.com</b></li>
+        <li>⚡ Fun Fact: <i>I debug faster with coffee ☕</i></li>
+    </ul>
 
-- 🌱 I’m currently learning *Full Stack Web Development*
- 
-- 💬 Ask me about *.NET core Developer || react js || Sql server || PostgreSQL || MySQL || C# || C++ || python || php*
+    <h2>🔗 Connect With Me</h2>
+    <p align="center">
+        <a href="https://www.linkedin.com/in/vikrant-y-69b477242" target="_blank">
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40">
+        </a>
+    </p>
 
-- 📫 How to reach me *dev.vikrant21@gmail.com*
+    <h2>🛠 Tech Stack & Tools</h2>
 
-- ⚡ Fun fact *I think I am very funny*
+    <h3>Backend:</h3>
+    <div class="icons">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET Core">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#">
+    </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/vikrant-y-69b477242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vikrant-y-69b477242" height="30" width="40" /></a>
- 
-</p>
+    <h3>Databases:</h3>
+    <div class="icons">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL Server">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL">
+    </div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+    <h3>Frontend:</h3>
+    <div class="icons">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3">
+    </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikrant-eng&show_icons=true&locale=en&layout=compact" alt="vikrant-eng" /></p>
+    <h3>Other Tools:</h3>
+    <div class="icons">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git">
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma">
+    </div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikrant-eng&show_icons=true&locale=en" alt="vikrant-eng" /></p>
+    <h2>📊 GitHub Stats</h2>
+    <div class="github-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vikrant-eng&show_icons=true&locale=en&layout=compact" alt="Top Languages">
+        <img src="https://github-readme-stats.vercel.app/api?username=vikrant-eng&show_icons=true&locale=en" alt="GitHub Stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikrant-eng&" alt="GitHub Streak">
+    </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikrant-eng&" alt="vikrant-eng" /></p>
-
-<div align="center">
-    <h2>📊 Vikrant Yadav Contribution Graph</h2>
-    <br><a href="https://github.com/vikrant-eng
-"><img alt="Vikrant Yadav Activity Graph" src="https://ghactivity.mrayush.me/graph?username=vikrant-eng&bg_color=d3c0ca&color=000000&line=d709ca&point=d01616&area=true&hide_border=true" title="Contribution Graph"/></a>
+    <h2>📈 Contribution Graph</h2>
+    <div align="center">
+        <img src="https://ghactivity.mrayush.me/graph?username=vikrant-eng&bg_color=d3c0ca&color=000000&line=d709ca&point=d01616&area=true&hide_border=true" alt="Contribution Graph">
+    </div>
 </div>
+
+</body>
+</html>
