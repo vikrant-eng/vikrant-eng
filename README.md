@@ -1,38 +1,4 @@
- <style>
-        
-        h1, h2, h3 {
-            text-align: center;
-        }
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            background: white;
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-        }
-        .profile-img {
-            display: block;
-            margin: 0 auto;
-        }
-        .icons {
-            display: flex;
-            justify-content: center;
-            flex-wrap: wrap;
-            gap: 15px;
-            margin-top: 10px;
-        }
-        .icons img {
-            width: 40px;
-            height: 40px;
-        }
-        .github-stats {
-            text-align: center;
-        }
-        .github-stats img {
-            max-width: 100%;
-        }
-    </style>
+ 
   <h1>👋 Hi, I'm Vikrant Yadav</h1>
     <h3>🚀 .NET Core Developer | Full Stack Engineer</h3>
     <p align="center"> <img src="https://komarev.com/ghpvc/?username=vikrant-eng&label=Profile%20views&color=0e75b6&style=flat" alt="vikrant-eng" /> </p>
@@ -80,7 +46,7 @@
     <div class="github-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vikrant-eng&show_icons=true&locale=en&layout=compact" alt="Top Languages">
         <img src="https://github-readme-stats.vercel.app/api?username=vikrant-eng&show_icons=true&locale=en" alt="GitHub Stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikrant-eng&" alt="GitHub Streak">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikrant-eng" alt="GitHub Streak">
     </div>
   <h2>📈 Contribution Graph</h2>
     <div align="center">
