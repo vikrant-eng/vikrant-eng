@@ -126,7 +126,7 @@ public sealed class VikrantYadav
 *(Replace `your_spotify_user_id` with your Spotify ID)*
 
 <div align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_user_id&cover_image=true&theme=novatorem" />
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31rw3ireka6kl6ksb5epaqi2ipti&cover_image=true&theme=novatorem" />
 </div>
 
 ---
