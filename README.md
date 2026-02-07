@@ -127,8 +127,8 @@ public sealed class VikrantYadav
 
 <div align="center">
    
-<img height="170" src="./assets/github-stats.svg" />
-<img height="170" src="./assets/top-langs.svg" />
+<img height="170" src="assets/github-stats.svg" />
+<img height="170" src="assets/top-langs.svg" />
 
 
 <br/>
