@@ -120,32 +120,28 @@ public sealed class VikrantYadav
 
 </div>
 
----
-
-# 🧠 LEETCODE STATS
-
-<div align="center">
-<img src="https://leetcard.jacoblin.cool/vikrantyadav?theme=dark&ext=heatmap" />
-</div>
-
----
+ 
 
 # 🎧 SPOTIFY – NOW PLAYING
+## 🎧 Music While Coding
+<a href="https://open.spotify.com/user/31rw3ireka6kl6ksb5epaqi2ipti">
+  <img src="https://img.shields.io/badge/Spotify-Now_Playing-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+</a>
 
-<div align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31rw3ireka6kl6ksb5epaqi2ipti&cover_image=true&theme=novatorem" />
-</div>
 
 <p align="center">🎧 Writing clean code with good music.</p>
+
 
 ---
 
 # 📊 GITHUB ANALYTICS
 
-<div align="center">
+<div align="center"><img height="170"
+     src="https://github-readme-stats.vercel.app/api?username=vikrant-eng&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vikrant-eng&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikrant-eng&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikrant-eng&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+
 
 <br/>
 
