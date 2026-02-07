@@ -63,13 +63,14 @@ Focus: Performance, Scalability, Maintainability
 
 # 🟣 TECH MATRIX
  
+
+ 
+<div align="center">
 <picture>
   
   <img align="center" alt="GIF description" src="assets\Skills_Animation_Dark.gif">
   
 </picture>
- 
-<div align="center">
 <img src="https://skillicons.dev/icons?i=dotnet,cs,react,html,css,bootstrap,postgres,mysql,redis,docker,azure,aws,git,figma" />
 </div>
 
