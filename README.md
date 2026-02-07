@@ -65,7 +65,7 @@ Focus: Performance, Scalability, Maintainability
  
 <picture>
   
-  <img align="center" alt="GIF description" src="./Skills_Animation_White.gif">
+  <img align="center" alt="GIF description" src="assets/Skills_Animation_White.gif">
 </picture>
  
 <div align="center">
