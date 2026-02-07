@@ -136,10 +136,9 @@ public sealed class VikrantYadav
 # 📊 GITHUB ANALYTICS
 
 <div align="center">
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vikrant-eng&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img height="170"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vikrant-eng&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikrant-eng&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vikrant-eng&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 
 
 <br/>
