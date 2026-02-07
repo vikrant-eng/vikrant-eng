@@ -92,17 +92,7 @@ public sealed class VikrantYadav
 }
 ```
 
----
-
-# 🎮 FEATURED PROJECT
-
-<div align="center">
-
-[![MedicalScore](https://github-readme-stats.vercel.app/api/pin/?username=vikrant-eng&repo=MedicalScore&theme=tokyonight)](https://github.com/vikrant-eng/MedicalScore)
-
-</div>
-
----
+ 
 
 # 🏆 ELITE BADGE WALL
 
@@ -136,9 +126,9 @@ public sealed class VikrantYadav
 # 📊 GITHUB ANALYTICS
 
 <div align="center">
-  <img height="170"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vikrant-eng&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vikrant-eng&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+   
+<img height="170" src="./assets/github-stats.svg" />
+<img height="170" src="./assets/top-langs.svg" />
 
 
 <br/>
