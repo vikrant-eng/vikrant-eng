@@ -121,13 +121,12 @@ public sealed class VikrantYadav
 </div>
 
  
-
-# 🎧 SPOTIFY – NOW PLAYING
-## 🎧 Music While Coding
+# 🎧 Music While Coding
+<div align="center">
 <a href="https://open.spotify.com/user/31rw3ireka6kl6ksb5epaqi2ipti">
   <img src="https://img.shields.io/badge/Spotify-Now_Playing-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
 </a>
-
+</div>
 
 <p align="center">🎧 Writing clean code with good music.</p>
 
@@ -136,11 +135,11 @@ public sealed class VikrantYadav
 
 # 📊 GITHUB ANALYTICS
 
-<div align="center"><img height="170"
-     src="https://github-readme-stats.vercel.app/api?username=vikrant-eng&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+<div align="center">
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vikrant-eng&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 
-<img height="170"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikrant-eng&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikrant-eng&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 
 
 <br/>
