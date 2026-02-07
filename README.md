@@ -17,7 +17,8 @@
       </feMerge>
     </filter>
   </defs>
-  <text x="50%" y="60%" text-anchor="middle" font-size="60" font-family="Orbitron"
+  <text x="50%" y="60%" text-anchor="middle" font-size="60"
+        font-family="Orbitron, Arial, Helvetica, sans-serif"
         fill="url(#grad1)" filter="url(#glow)">
     VIKRANT YADAV
     <animate attributeName="opacity" values="0.7;1;0.7" dur="2.5s" repeatCount="indefinite"/>
@@ -37,7 +38,7 @@
 ```yaml
 Name: Vikrant Yadav
 Role: Full Stack .NET Engineer
-Stack: ASP.NET Core | React.js | SQL Server
+Stack: ASP.NET Core | C# | React.js | SQL Server | PostgreSQL
 Architecture: Clean Architecture | REST APIs | Microservices
 Cloud: Azure | AWS | Docker
 Focus: Performance, Scalability, Maintainability
@@ -48,6 +49,15 @@ Focus: Performance, Scalability, Maintainability
 ✔ Optimized database design  
 ✔ Responsive frontend UI  
 ✔ Cloud-ready deployment mindset  
+
+---
+
+# 🚧 CURRENTLY BUILDING
+
+- MedicalScore → Scalable healthcare management platform  
+- .NET 10 APIs using Clean Architecture & Dapper  
+- Real-time systems with SignalR & WebSockets  
+- Secure auth flows (JWT, RBAC, refresh tokens)
 
 ---
 
@@ -69,7 +79,7 @@ public sealed class VikrantYadav
     public string[] Expertise => new[]
     {
         "ASP.NET Core",
-        "Entity Framework",
+        "Dapper / EF Core",
         "REST APIs",
         "React.js",
         "SQL Optimization",
@@ -106,28 +116,27 @@ public sealed class VikrantYadav
 <br/><br/>
 
 <img src="https://img.shields.io/badge/LeetCode-Active-orange?style=for-the-badge&logo=leetcode" />
-<img src="https://img.shields.io/badge/CodeChef-Competitive-brown?style=for-the-badge&logo=codechef" />
 <img src="https://img.shields.io/badge/Problem%20Solving-DSA-success?style=for-the-badge" />
 
 </div>
 
 ---
 
-# 🧠 LEETCODE STATS  
-*(Replace `your-leetcode-username` with actual username)*
+# 🧠 LEETCODE STATS
 
 <div align="center">
-<img src="https://leetcard.jacoblin.cool/your-leetcode-username?theme=dark&ext=heatmap" />
+<img src="https://leetcard.jacoblin.cool/vikrantyadav?theme=dark&ext=heatmap" />
 </div>
 
 ---
 
-# 🎧 SPOTIFY – NOW PLAYING  
-*(Replace `your_spotify_user_id` with your Spotify ID)*
+# 🎧 SPOTIFY – NOW PLAYING
 
 <div align="center">
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=31rw3ireka6kl6ksb5epaqi2ipti&cover_image=true&theme=novatorem" />
 </div>
+
+<p align="center">🎧 Writing clean code with good music.</p>
 
 ---
 
@@ -147,9 +156,13 @@ public sealed class VikrantYadav
 ---
 
 # 🐍 CONTRIBUTION SNAKE
-  
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vikrant-eng/vikrant-eng/output/github-contribution-grid-snake-dark.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/vikrant-eng/vikrant-eng/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/vikrant-eng/vikrant-eng/output/github-contribution-grid-snake.svg" />
+</picture>
 </div>
 
 ---
@@ -167,7 +180,7 @@ public sealed class VikrantYadav
 <div align="center">
 
 ## Vikrant Yadav  
-### Full Stack Engineer | System Architect
+### Full Stack Engineer | System Architect  
 
 Building scalable digital infrastructure with precision.
 
@@ -193,7 +206,7 @@ Building scalable digital infrastructure with precision.
 
 <div align="center">
 
-"Design systems that scale. Write code that lasts."
+> **“Design systems that scale. Write code that lasts.”**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:302b63,100:000000&height=150&section=footer" />
 
