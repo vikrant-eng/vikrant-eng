@@ -60,7 +60,15 @@ Focus: Performance, Scalability, Maintainability
 - Secure auth flows (JWT, RBAC, refresh tokens)
 
 # 🌐 WEBSITE
-- Building scalable web products at [ToolOneX](https://www.toolonex.com)
+<div align="center">
+
+### 🚀 ToolOneX
+
+Building scalable web products, automation tools & modern digital experiences.
+
+🔗 https://www.toolonex.com
+
+</div>
 
 ---
  
